@@ -1,0 +1,40 @@
+body{
+width: 100%;
+margin: 0 auto;
+padding: 0;
+background: url(../images/BodyBgDT11.png) repeat-x;
+}
+/***** continut ******/
+
+#content{
+width:902px;
+height:1095px;
+margin: 0 auto;
+border:1px solid transparent;
+}
+/***** end continut ******/
+#degrade{
+width:904px;
+height:779px;
+margin: 1px auto;
+background: url(../images/degrade.png) repeat-y;
+}
+
+#map{
+width:904px;
+height:758px;
+margin: 0 auto;
+background: url(../images/mapDT11.png) no-repeat;
+border:0px solid blue;
+}
+#col2 img{
+margin-left:30px;
+margin-top:10px;
+}
+#title a{
+
+color:black;
+}
+#title a:hover{
+color:#030ffb;
+}

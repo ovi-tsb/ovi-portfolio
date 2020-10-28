@@ -1,0 +1,9 @@
+/* IE (all versions) */
+/* ----------------------------------------- */
+
+/* IE 7 */
+*+html #imghead{ margin-bottom:20px; }
+*+html #col1{margin-top:30px;}
+*+html #col2{margin-top:-305px;}
+*+html #adres{ float:right; margin-left:460px; margin-top:-20px; }
+

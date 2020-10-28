@@ -1,0 +1,170 @@
+
+img{
+border:0;
+}
+
+/***** header ******/
+#head{
+width:902px;
+height:200px;
+margin-top:39px;
+background: url(../images/header.png) no-repeat;
+}
+/***** end header ******/
+/***** meniu Top ******/
+table#menu{
+width:100%;
+height:40px;
+}
+
+td.menuItem{
+line-height:40px;
+width:120px;
+text-align:center;
+font-size:15px;
+font-family:arial;
+font-weight:bold;
+color: black;
+}
+td.menuItem a{
+text-decoration:none;
+color:black;
+padding:6px 20px;
+border:0px solid red;
+}
+.menuItem a:hover{
+color:#8d8c8c;
+}
+td#menuItemOn{
+color:#950404;
+}
+td#menuItemOn a{
+color:#950404;
+}
+td#menuItemOn a:hover{
+color:#8d8c8c;
+}
+/***** end meniu Top ******/
+/***** mainBody ******/
+
+
+#flag{
+width:880px;
+height:40px;
+margin-right:15px;
+font-family: arial symbol;
+border:0px solid red;
+}
+#flag title{
+font-family: arial symbol;
+}
+#flag img{
+float:right;
+margin:9px 2px 0 0;
+border:2px solid transparent;
+}
+
+
+/***** Col1 ******/
+#col1{
+float:left;
+width:288px;
+height:535px;
+border:0px solid blue;
+}
+#under{
+width:260px;
+margin-left:13px;
+border:0px solid red;
+}
+#box1{
+width:219px;
+height:137px;
+margin-top:8px;
+padding-top:8px;
+font-family:arial;
+font-size:14px;
+font-style:italic;
+padding-left:8px;
+background: url(../images/UnderBg.png);
+}
+#box1 li{
+margin:-15px 0 0 -28px;
+line-height:58px;
+list-style:none;
+}
+#box1 li img{
+vertical-align:middle;
+margin-left:12px;
+}
+#box1 li a{
+font-size:15px;
+}
+#box1 li a:visited{
+color:#0505f7;
+}
+table#menuLeft{
+width:300px;
+margin-left:-15px;
+}
+
+#menuLeft img:hover{
+margin-left:10px;
+}
+
+
+/***** end Col1 ******/
+
+
+/***** Col2 ******/
+#col2{
+float:right;
+width:594px;
+height:522px;
+margin-right:4px;
+padding:8px;
+font-family:centaur arial;
+font-size: 14px;
+border:0px solid red;
+}
+
+#title{
+margin:4px;
+font-family:arial rounded mt bold;
+font-size: 22px;
+color:#5d5656;
+}
+
+#title a{
+text-decoration:none;
+}
+#line{
+width:100%;
+height:4px;
+margin-bottom:8px;
+background:url(../images/line.png) repeat-x;
+}
+.line{
+width:100%;
+height:4px;
+margin-bottom:8px;
+background:url(../images/line.png) repeat-x;
+}
+
+/***** end Col2 ******/
+#legal{
+margin: 12px 0 0 33px;
+font-size:13px;
+font-family:arial;
+font-weight:bold;
+}
+
+#legal a{
+color:#040af8;
+text-decoration:none;
+
+}
+#legal a:visited{
+color:#040af8;
+}
+/***** end mainBody ******/

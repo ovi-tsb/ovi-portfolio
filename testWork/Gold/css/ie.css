@@ -1,0 +1,20 @@
+/* IE (all versions) */
+/* ----------------------------------------- */
+a img{text-decoration:none; border:0px;}
+#content{width:1070px; }
+.topMenu{margin-top:-147px;}
+.logo a img{text-decoration:none; border:0px;}
+#stylized #checkbox input{
+    outline:0;border:none;
+}
+#stylized #checkbox input:hover{border:none;outline:0;}
+#mainMenu{
+width:1000px; height :50px; margin: -12px auto; background:url(../images/mainMenuBg.png) repeat-x;border: 1px solid transparent;
+
+}
+
+#mainMenu ul{margin-left:6px;}
+#mainMenu ul li a{padding:0 9px;}
+#mainMenu ul li a:hover{padding:14px 9px;}
+#mainMenu ul li a.active{padding:14px 9px;}
+

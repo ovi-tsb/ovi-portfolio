@@ -1,0 +1,46 @@
+body{
+width: 100%;
+margin: 0 auto;
+padding: 0;
+background: url(../images/BodyBg.png) repeat-x;
+}
+
+#degrade{
+width:904px;
+height:579px;
+margin: 1px auto;
+background: url(../images/degrade.png) repeat-y;
+}
+/***** continut ******/
+
+#content{
+width:902px;
+height:898px;
+margin: 0 auto;
+border:1px solid transparent;
+}
+/***** end continut ******/
+#map{
+width:904px;
+height:538px;
+margin: 0 auto;
+background: url(../images/map.png) no-repeat;
+border:0px solid blue;
+}
+
+#col2 img{
+margin:12px 4px 12px 12px;
+float:right;
+}
+
+#lista{
+width:500px;
+height:400px;
+margin:15px 45px;
+border:1px solid #5c88f8;
+overflow:scroll;
+background-color:#fff;
+}
+#lista img{
+margin:10px 25px;
+}

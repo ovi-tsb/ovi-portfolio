@@ -1,0 +1,28 @@
+#adres{
+width:200px;
+border: 0px solid red;
+font-size:13px;
+font-family: verdana;
+float:right;
+margin-top:-400px;
+margin-right:0;
+}
+
+td.con{
+height:30px;
+
+}
+input{
+border:1px solid #a9a9ac;
+background-color:transparent;
+float:right;
+margin-top: 4px;
+}
+
+textarea{
+border:1px solid #a9a9ac;
+background-color: transparent;
+float:right;
+margin-top: 4px;
+margin-left:10px;
+}
