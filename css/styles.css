@@ -576,7 +576,7 @@ h3:after {
   }
   .contact {
     margin: 80px auto;
-    padding: 0 10px;
+    padding: 0 10px 0 10px;
   }
   #thankyouBlock p {
     font-size: 1.1em;
